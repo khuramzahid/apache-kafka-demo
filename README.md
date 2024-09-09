@@ -12,3 +12,6 @@ docker run -p 9092:9092 \
 -e KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR=1 \
 confluentinc/cp-kafka
 ```
+
+## Tutorial source
+https://www.youtube.com/watch?v=ZJJHm_bd9Zo
